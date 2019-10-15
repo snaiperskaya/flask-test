@@ -109,3 +109,4 @@ appspace/
 .appspace
 appspace.bak/
 app.db
+.flaskenv
