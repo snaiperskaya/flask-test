@@ -110,3 +110,4 @@ appspace/
 appspace.bak/
 app.db
 .flaskenv
+*.log.*
